@@ -95,3 +95,4 @@ See the [documentation](aws-lambda-java-events-sdk-transformer/README.md) for mo
 
 This package defines the Lambda adapter to use with log4j version 2. 
 See the [README](aws-lambda-java-log4j2/README.md) or the [official documentation](http://docs.aws.amazon.com/lambda/latest/dg/java-logging.html#java-wt-logging-using-log4j) for information on how to use the adapter.
+
